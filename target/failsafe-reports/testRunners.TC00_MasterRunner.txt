@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: testRunners.TC00_MasterRunner
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 48.776 s - in testRunners.TC00_MasterRunner

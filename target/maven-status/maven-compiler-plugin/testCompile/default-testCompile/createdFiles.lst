@@ -1,0 +1,6 @@
+stepDefinitions\LoginPageSteps.class
+testRunners\TC02_LoginRunner.class
+AppHooks\ApplicationHooks.class
+testRunners\TC01_LoginRunner.class
+AppHooks\TakeScreenshot.class
+testRunners\TC00_MasterRunner.class
